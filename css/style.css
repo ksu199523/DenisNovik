@@ -35,10 +35,12 @@ section:nth-of-type(even){
 
 .nav__link{
   color: #828282;
+  transition: all 0.3s ease;
 }
 
 .nav__link:hover{
   color: black;
+  font-weight: 800;
 }
 
 .hero__title{
